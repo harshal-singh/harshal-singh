@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]["https://harshal-singh.me/"]
-[<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />]["dharma3136@gmail.com"]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />]["https://harshal-singh.me/"]
-[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]["https://harshal-singh.me/"]
+[<img align="left" alt="harshal-singh.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://harshal-singh.me/)
+[<img align="left" alt="harshal-singh | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](dharma3136@gmail.com)
+[<img align="left" alt="harshal-singh | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://harshal-singh.me/)
+[<img align="left" alt="_harshal_singh_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://harshal-singh.me/)
 
 <br />
 
