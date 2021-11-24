@@ -12,7 +12,6 @@
 [<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -43,25 +42,4 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
--   [Complete authentication using Passport JS in Node JS](https://www.youtube.com/watch?v=6AoJaZs73Ak&t=6s)
--   [Realtime chat app using Node js and Socket.io ](https://www.youtube.com/watch?v=_gikjdpWmcI&t=113s)
--   [Realtime pizza tracker app using websockets and Node Js](https://www.youtube.com/watch?v=RqiU5nzj_nU&list=PLXQpH_kZIxTVRmXQN9J0Az76te5mAreLV)
--   [Responsive portfolio website using Html, Css and JS (2020)](https://www.youtube.com/watch?v=8r1MHZec4Hc&list=PLXQpH_kZIxTWgPEnocGfpQo4XLrgcx63M)
--   [Tailwind css crash course](https://www.youtube.com/watch?v=91evwKVzGRE&list=PLXQpH_kZIxTVc4bayR6EC0X_y_qRxDRyJ)
-<!-- YOUTUBE:END -->
-
-<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
-
-[website]: https://www.youtube.com/c/codersgyan
-[twitter]: https://twitter.com/CoderGyan
-[facebook]: https://www.facebook.com/codersgyan
-[youtube]: https://www.youtube.com/c/codersgyan
-[instagram]: https://www.instagram.com/codersgyan
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA
-[jsplaylist]: https://www.youtube.com/watch?v=KlLdNSvmoKI&list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz
-[cssplaylist]: https://www.youtube.com/watch?v=wTyyIGZwJg0&t=2487s
-[pizzaseries]: https://www.youtube.com/watch?v=RqiU5nzj_nU
+<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshal-singh&show_icons=true&hide_border=true" />
