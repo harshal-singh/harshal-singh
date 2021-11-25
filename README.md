@@ -38,4 +38,4 @@
 
 ---
 
-<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harshal-singh&show_icons=true&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api?username=harshal-singh&show_icons=true&hide_border=true&count_private=true)
