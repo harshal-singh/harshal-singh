@@ -6,7 +6,7 @@
 -   🌱 Currently, I’m learning ReactJS.
 -   🎨 Passionate about designing new UIs.
 -   🥅 2022 Goals: To Master JavaScript Frameworks.
--   ⚡ Fun fact: I enjoy playing cricket and listening songs.
+-   ⚡ Fun Fact: I enjoy playing cricket and listening songs.
 
 ### Connect with me:
 
