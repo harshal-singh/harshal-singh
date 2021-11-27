@@ -1,11 +1,12 @@
-### Hi there, I'm Harshal 👋
+# Hello, I'm Harshal Singh 👋
 
 ## Full Stack Software Developer and JavaScript Addict!
 
--   🔭 I’m know as Frontend Developer and UI Designer.
--   🌱 I’m currently learning ReactJS.
+-   🔭 I’m know as Frontend Developer.
+-   🌱 Currently, I’m learning ReactJS.
+-   🎨 Passionate about designing new UIs.
 -   🥅 2022 Goals: To Master JavaScript Frameworks.
--   ⚡ Fun fact: I love playing cricket and enjoy listening songs.
+-   ⚡ Fun fact: I enjoy playing cricket and listening songs.
 
 ### Connect with me:
 
