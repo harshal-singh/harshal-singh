@@ -5,7 +5,6 @@
 -   🔭 I’m know as Frontend Developer.
 -   🌱 Currently, I’m learning ReactJS.
 -   🎨 Passionate about designing new UIs.
-<!-- -   🥅 2022 Goals: To Master JavaScript Frameworks. -->
 -   ⚡ Fun Fact: I enjoy playing cricket and listening songs.
 
 ### Connect with me:
