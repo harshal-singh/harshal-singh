@@ -1,10 +1,10 @@
-# Hello, I'm Harshal Singh 👋
+### Hello bro 👋
+# I'm Harshal Singh
+Full Stack Software Developer!
 
-## Full Stack Software Developer!
-
--   🔥 JavaScript Addict.
--   🌱 Currently, I’m learning ReactJS.
--   🎨 Passionate about designing new UIs.
+-   🔥 Extremely addicted to JavaScript.
+-   🌱 Currently, I’m learning about Docker.
+-   🎨 Passionate about designing & developing new UIs.
 -   ⚡ Fun Fact: I enjoy playing cricket and listening songs.
 
 ### Connect:
