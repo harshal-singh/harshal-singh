@@ -26,8 +26,8 @@ Building production web applications, improving performance, and exploring AI-po
 
 <div align="center">
 
-<!-- <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,mongodb,mysql,docker,aws,git&perline=6" /> -->
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,docker,aws&perline=7" />
+
 </div>
 
 ---
@@ -48,7 +48,18 @@ Currently, I'm focused on becoming a stronger Software Engineer by improving my 
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img
+  src="./pragnyapan-ai.jpg"
+  width="100%"
+  alt="Pragnyapan.ai preview"
+/>
+
+</div>
 
 ### Pragnyapan.ai
 
@@ -70,7 +81,17 @@ AI-powered platform that helps agencies turn a prospect's public website into a 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+<div align="center">
+
+<img
+  src="./meetspace.jpg"
+  width="100%"
+  alt="MeetSpace preview"
+/>
+
+</div>
 
 ### MeetSpace
 
@@ -91,5 +112,6 @@ Real-time video meeting platform using peer-to-peer video communication, real-ti
 </a>
 
 </td>
+
 </tr>
 </table>
