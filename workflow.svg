@@ -1,0 +1,14 @@
+<svg width="1200" height="245" viewBox="0 0 1200 245" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="245" rx="18" fill="#080C12"/>
+<text x="48" y="45" fill="#F4F7F5" font-family="Arial" font-size="20" font-weight="700">How I like to build</text>
+<text x="48" y="70" fill="#7F8A85" font-family="Arial" font-size="13">From interface to infrastructure, with a focus on clarity and reliable delivery.</text>
+<g font-family="Arial">
+<rect x="48" y="105" width="210" height="88" rx="12" fill="#0D1512" stroke="#39FF88" stroke-opacity=".22"/>
+<text x="68" y="132" fill="#39FF88" font-size="12" font-weight="700">01 · PRODUCT</text><text x="68" y="157" fill="#D7DED9" font-size="14">Requirements → flow</text><text x="68" y="178" fill="#7F8A85" font-size="11">Understand before building</text>
+<rect x="328" y="105" width="210" height="88" rx="12" fill="#0D1512" stroke="#39FF88" stroke-opacity=".22"/>
+<text x="348" y="132" fill="#39FF88" font-size="12" font-weight="700">02 · APPLICATION</text><text x="348" y="157" fill="#D7DED9" font-size="14">UI → APIs → state</text><text x="348" y="178" fill="#7F8A85" font-size="11">Reusable, predictable pieces</text>
+<rect x="608" y="105" width="210" height="88" rx="12" fill="#0D1512" stroke="#39FF88" stroke-opacity=".22"/>
+<text x="628" y="132" fill="#39FF88" font-size="12" font-weight="700">03 · QUALITY</text><text x="628" y="157" fill="#D7DED9" font-size="14">Performance → testing</text><text x="628" y="178" fill="#7F8A85" font-size="11">Measure, fix, measure again</text>
+<rect x="888" y="105" width="210" height="88" rx="12" fill="#0D1512" stroke="#39FF88" stroke-opacity=".22"/>
+<text x="908" y="132" fill="#39FF88" font-size="12" font-weight="700">04 · DELIVERY</text><text x="908" y="157" fill="#D7DED9" font-size="14">Docker → CI/CD → AWS</text><text x="908" y="178" fill="#7F8A85" font-size="11">Ship it reliably</text>
+</g></svg>
