@@ -72,11 +72,11 @@ AI-powered platform that helps agencies turn a prospect's public website into a 
 <br />
 
 <a href="https://pragnyapan-ai.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Project-111827?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Project-4caf50?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/Source_Code:_Private-111827?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Private-111827?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -104,7 +104,7 @@ Real-time video meeting platform using peer-to-peer video communication, real-ti
 <br />
 
 <a href="https://meetspace-pii4.onrender.com/">
-  <img src="https://img.shields.io/badge/Live_Project-111827?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Project-4caf50?style=flat-square&logo=render&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/harshal-singh/meet">
