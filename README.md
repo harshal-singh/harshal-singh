@@ -12,11 +12,11 @@ Building production web applications, improving performance, and exploring AI-po
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/harshal-singh-56a55a236">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:harshal.wrk@gmail.com">
   <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
