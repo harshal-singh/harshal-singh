@@ -1,49 +1,95 @@
-### Hello bro 👋
-# I'm Harshal Singh
-Full Stack Software Developer!
+<div align="center">
 
--   🔥 Extremely addicted to JavaScript.
--   🌱 Currently, I’m learning about Docker.
--   🎨 Passionate about designing & developing new UIs.
--   ⚡ Fun Fact: I enjoy playing cricket and listening songs.
+# Hi, I'm Harshal Singh
 
-### Connect:
+### Software Engineer — React · Next.js · TypeScript
 
-[<img align="left" alt="harshal-singh.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://harshal-singh.me/)
-[<img align="left" alt="harshal-singh | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/harshal-singh-56a55a236/)
-[<img align="left" alt="_harshal_singh_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://harshal-singh.me/)
+Building production web applications, improving performance, and exploring AI-powered products.
 
 <br />
 
-### Techs and Tools:
+<a href="https://harshal-singh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Sass" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="reactjs" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" />
-<img align="left" alt="PWA" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/pwa/pwa.png" />
-
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<!-- <img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
-<img align="left" alt="PHP" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="AWS" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="npm" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+</div>
 
 <br />
-<br />
+
+<div align="center">
+
+<!-- <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,mongodb,mysql,docker,aws,git&perline=6" /> -->
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,docker,aws&perline=7" />
+</div>
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=harshal-singh&show_icons=true&hide_border=true&count_private=true)
+## About Me
+
+I'm a Software Engineer with 3+ years of experience building production web applications.
+
+My strongest experience is with **React, Next.js, TypeScript, and JavaScript**, along with hands-on work across APIs, SSR, performance optimization, CI/CD, Docker, and cloud workflows.
+
+I enjoy taking a requirement, figuring out how it should work, and turning it into a reliable production feature.
+
+Currently, I'm focused on becoming a stronger Software Engineer by improving my understanding of **architecture, backend systems, cloud infrastructure, performance, and AI-powered applications.**
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Pragnyapan.ai
+
+AI-powered platform that helps agencies turn a prospect's public website into a pitch-ready marketing audit.
+
+**Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Gemini AI`
+
+<br />
+
+<a href="https://pragnyapan-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Project-111827?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Source_Code:_Private-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### MeetSpace
+
+Real-time video meeting platform using peer-to-peer video communication, real-time signaling, and backend APIs.
+
+**Stack**
+
+`React` `Node.js` `Socket.io` `MongoDB` `WebRTC`
+
+<br />
+
+<a href="https://meetspace-pii4.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_Project-111827?style=flat-square&logo=render&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/harshal-singh/meet">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
